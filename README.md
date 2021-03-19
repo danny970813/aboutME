@@ -8,6 +8,4 @@
 
 Function: $\lim_\theta\rightarrow0{\frac{\sin{\theta}}{\theta} = 1 }$
 
-$e^{i \pi} = -1$
 
-$$\frac{\sin(x)}{x}$$
