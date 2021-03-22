@@ -6,6 +6,7 @@
 * AI Framework : pytorch
 ![image](https://github.com/danny970813/aboutME/blob/main/maxresdefault.jpg)
 
-Function: $\lim_\theta\rightarrow0{\frac{\sin{\theta}}{\theta} = 1 }$
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+Function: $$\lim_\theta\rightarrow0{\frac{\sin{\theta}}{\theta} = 1}$$
 
 
