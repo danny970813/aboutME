@@ -6,7 +6,8 @@
 * AI Framework : pytorch
 ![image](https://github.com/danny970813/aboutME/blob/main/maxresdefault.jpg)
 
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-Function: $$\lim_\theta\rightarrow0{\frac{\sin{\theta}}{\theta} = 1}$$
+Function: 
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= e^x \approx 1 %2b x %2b \frac{x^2}{2!} %2b \frac{x^3}{3!} %2b \cdots %2b \frac{x^n}{n!}" style="border:none;">
 
 
