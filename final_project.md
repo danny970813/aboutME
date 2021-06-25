@@ -20,10 +20,9 @@
     硬體的部分是使用i5-7500的CPU進行測試，在訓練時使用GTX-1080ti加速訓練的進行。
     
 
-    |     CPU      | Column 3  |
+    |     CPU      |  i5-7500  |
     |:------------:|:---------:|
     |     GPU      | GTX1080ti |
-    |     CPU      |  i5-7500  |
     |     RAM      |    16G    |
     | AI Framework |  pytorch  |
 
